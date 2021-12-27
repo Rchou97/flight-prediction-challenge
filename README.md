@@ -1,4 +1,4 @@
-#  Flight delay prediction challenge repo on Kaggle
+#  Flight delay prediction - Kaggle challenge
 
 This challenge focuses on predicting flight delays. 
 
