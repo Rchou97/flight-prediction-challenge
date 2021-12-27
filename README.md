@@ -8,10 +8,10 @@ The goal in this challenge is to predict the flight delays.
 
 You should predict ARRIVAL_DELAY columns. Here there are explanations for some data rows: 
 
-*   YEAR, MONTH, DAY, DAYOFWEEK: dates of the flight. 
+*   YEAR, MONTH, DAY, DAY_OF_WEEK: dates of the flight. 
 *   AIRLINE: An identification number assigned by US DOT to identify a unique airline. 
-*   ORIGINAIRPORT, DESTINATIONAIRPORT: code attributed by IATA to identify the airports. 
-*   SCHEDULEDDEPARTURE, SCHEDULEDARRIVAL: scheduled times of take-off and landing.
+*   ORIGIN_AIRPORT, DESTINATION_AIRPORT: code attributed by IATA to identify the airports. 
+*   SCHEDULED_DEPARTURE, SCHEDULED_ARRIVAL: scheduled times of take-off and landing.
 *   DEPARTURE_TIME: real times at which take-off took place.
 *   DISTANCE: distance (in miles).
 
