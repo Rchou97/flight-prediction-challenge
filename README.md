@@ -42,3 +42,5 @@ The dataset consists of 2325706 rows in the training set and 492847 rows for the
 *   flights_test.csv - the training set with 2325706 rows.
 *   flights_train.csv - the test set with 492847 rows.
 *   submit_sample.csv - a sample for the submission file.
+
+The flights_train.csv and flight_test.csv can be found on [Kaggle](https://www.kaggle.com/c/flight-delays-prediction-challeng2021/data). 
